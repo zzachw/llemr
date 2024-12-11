@@ -4,7 +4,7 @@
 
 **Published at:** NeurIPS 2024 Datasets and Benchmarks Track (Spotlight)
 
-[[📑Paper](https://openreview.net/pdf?id=Dgy5WVgPd2)] [[📜Poster](./poster.pdf)] [[📽️Slides](./slides.pdf)]
+[[📑Paper](https://openreview.net/pdf?id=Dgy5WVgPd2)] [[🪧Poster](./poster.pdf)] [[📽️Slides](./slides.pdf)]
 
 <div style="text-align: center;">
     <img src="./images/logo.png" alt="Logo" height="200">
