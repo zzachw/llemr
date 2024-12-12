@@ -13,6 +13,7 @@
 
 
 ## Release
+- [11 Dec 2024] A sample dataset with ~100 patients is added
 - [11 Dec 2024] Code for dataset creation, model training, and response evaluation is released
 
 
@@ -41,6 +42,8 @@ peft 0.10.0
 </div>
 
 The **MIMIC-Instr** dataset will be hosted on [PhysioNet](https://physionet.org/) once the preparation and review process is complete.
+
+A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory.
 
 For early access to the full dataset, please reach out to Zhenbang Wu (zw12@illinois.edu) with your Physionet credentials. 
 
