@@ -56,7 +56,7 @@ For early access to the full dataset, please reach out to Zhenbang Wu (zw12@illi
     <img src="./images/model.png" alt="model" width="600">
 </div>
 
-The pre-trained model checkpoints can be found on the Hugging Face model hub: [zzachw/llemr-v1](https://huggingface.co/zzachw/llemr-v1).
+The pre-trained model checkpoints can be found on the Hugging Face model hub: [zzachw12/llemr-v1](https://huggingface.co/zzachw12/llemr-v1).
 
 You can load the model using the following code snippet:
 
