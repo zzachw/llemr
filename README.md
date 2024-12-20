@@ -47,7 +47,7 @@ The **MIMIC-Instr** dataset will be hosted on [PhysioNet](https://physionet.org/
 
 A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory.
 
-For early access to the full dataset, please reach out to Zhenbang Wu (zw12@illinois.edu) with your Physionet credentials. 
+For early access to the full dataset, please reach out to Zhenbang Wu (zw12@illinois.edu) with your CITI training report.
 
 
 ## Model Download
