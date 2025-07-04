@@ -37,6 +37,7 @@ transformers 4.44.0
 peft 0.10.0
 ```
 
+
 ## Data Download
 
 <p align="center">
@@ -49,12 +50,12 @@ In the meantime, to request access to the full dataset, please contact Zhenbang 
 
 A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory.
 
+
 ## Model Download
 
 <p align="center">
     <img src="images/model.png" width="100%">
 </p>
-
 
 The pre-trained model checkpoints can be found on the Hugging Face model hub: [zzachw12/llemr-v1](https://huggingface.co/zzachw12/llemr-v1).
 
