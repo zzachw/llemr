@@ -43,12 +43,11 @@ peft 0.10.0
     <img src="images/dataset.png" width="100%">
 </p>
 
-The **MIMIC-Instr** dataset will be hosted on [PhysioNet](https://physionet.org/) once the preparation and review process is complete.
+The **MIMIC-Instr** dataset will be hosted on [PhysioNet](https://physionet.org/). However, due to a temporary pause in the publication of datasets containing U.S. patient information—including those derived from the MIMIC database—we are currently awaiting further updates from PhysioNet.
+
+In the meantime, to request access to the full dataset, please contact Zhenbang Wu at zw12@illinois.edu and include your CITI training report. We aim to respond within three business days.
 
 A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory.
-
-For early access to the full dataset, please reach out to Zhenbang Wu (zw12@illinois.edu) with your CITI training report.
-
 
 ## Model Download
 
