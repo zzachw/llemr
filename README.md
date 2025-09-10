@@ -13,6 +13,7 @@
 
 
 ## Release
+- [9 Sep 2025] The full dataset is released on PhysioNet. Thanks everyone for the patiene!
 - [19 Dec 2024] The trained model weights are released
 - [11 Dec 2024] A sample dataset with ~100 patients is added
 - [11 Dec 2024] Code for dataset creation, model training, and response evaluation is released
@@ -44,11 +45,7 @@ peft 0.10.0
     <img src="images/dataset.png" width="100%">
 </p>
 
-The **MIMIC-Instr** dataset will be hosted on [PhysioNet](https://physionet.org/). However, due to a temporary pause in the publication of datasets containing U.S. patient information—including those derived from the MIMIC database—we are currently awaiting further updates from PhysioNet.
-
-In the meantime, to request access to the full dataset, please contact Zhenbang Wu at zw12@illinois.edu and include your CITI training report. We aim to respond within three business days.
-
-A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory.
+The **MIMIC-Instr** dataset is hosted on [PhysioNet](https://physionet.org/content/mimic-iv-ext-instr/1.0.0/). A sample dataset generated from the [MIMIC-IV Demo](https://physionet.org/content/mimic-iv-demo/2.2/) database is available in the `sample_data` directory. Please feel free to contact Zhenbang Wu at zw12@illinois.edu if you have any questions.
 
 
 ## Model Download
